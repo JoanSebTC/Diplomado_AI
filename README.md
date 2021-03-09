@@ -1,1 +1,3 @@
 # Diplomado_AI
+
+Creador: JOAN SEBASTIAN TORRES CASTILLO
